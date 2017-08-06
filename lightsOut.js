@@ -1,13 +1,11 @@
 /* MoMath Math Square Behavior
  *
- *        Title: Test
- *  Description: WIP
- *       Author: R
- *      Created: ?
- *      Updated: ?
- *       Status: no works
- */
-
+ *        Title: Lights Out
+ *  Description: Math game where you turn out light bulbs strategically
+ *       Author: Rony Henriquez, Aria Paradkar, Bryant Lye, Raymond Yu
+ *      Created: 08 - 05 - 2017
+ 
+ 
 import P5Behavior from 'p5beh';
 import THREEContext from 'threectx';
 import * as THREE from 'three';
